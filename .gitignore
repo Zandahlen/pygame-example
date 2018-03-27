@@ -38,3 +38,6 @@ tmp/
 
 # Sphinx built documentation
 docs/build/*
+
+# Highscore file
+highscore.txt
